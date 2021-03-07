@@ -1,5 +1,130 @@
-;URL;Nombre;Km;Ubicación;Dificultad
-0;https://es.wikiloc.com/rutas-senderismo/camino-santiago-frances-roncesvalles-santiago-de-compostela-gr-65-link-epilogo-finisterre-y-muxia-14369933;ruta Camino Santiago Francés - Roncesvalles - Santiago de Compostela - GR 65 - Link Epilogo Finisterre y Muxía - Orreaga, Navarra (España);762.097 kilómetros;cerca de Orreaga, Navarra (España);Moderado
-1;https://es.wikiloc.com/rutas-senderismo/loiketa-8257683;ruta Loiketa - Lantz, Navarra (España);11.937 kilómetros;cerca de Lantz, Navarra (España);Fácil
-2;https://es.wikiloc.com/rutas-senderismo/nacedero-del-urederra-desde-baquedano-26354490;ruta Nacedero del Urederra desde Baquedano - Baquedano, Navarra (España);7.687 kilómetros;cerca de Baquedano, Navarra (España);Fácil
-3;https://es.wikiloc.com/rutas-senderismo/dolmen-arteko-saroa-16242230;ruta Dolmen Arteko Saroa - Baquedano, Navarra (España);7.532 kilómetros;cerca de Baquedano, Navarra (España);Fácil
+;Ubicación;Nombre;Km;Dificultad;URL
+0;cerca de Orreaga, Navarra (España);ruta Camino Santiago Francés - Roncesvalles - Santiago de Compostela - GR 65 - Link Epilogo Finisterre y Muxía - Orreaga, Navarra (España);762.097 kilómetros;Moderado;https://es.wikiloc.com/rutas-senderismo/camino-santiago-frances-roncesvalles-santiago-de-compostela-gr-65-link-epilogo-finisterre-y-muxia-14369933
+1;cerca de Lantz, Navarra (España);ruta Loiketa - Lantz, Navarra (España);11.937 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/loiketa-8257683
+2;cerca de Ardanaz, Navarra (España);ruta Circular PEÑA IZAGA/ ITZAGA(1.360m) desde Ardanaz(Navarra) - Ardanaz, Navarra (España);11.997 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/circular-pena-izaga-itzaga1-360m-desde-ardanaznavarra-23802353
+3;cerca de Erratzu, Navarra (España);ruta Circular Auza pasando por Burdingurutx y Xorroxin - Erratzu, Navarra (España);17.94 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/circular-auza-pasando-por-burdingurutx-y-xorroxin-17721023
+4;cerca de Baquedano, Navarra (España);ruta Nacedero del Urederra desde Baquedano - Baquedano, Navarra (España);7.687 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/nacedero-del-urederra-desde-baquedano-26354490
+5;cerca de Ochagavía, Navarra (España);ruta Selva de Irati (Navarra) - Ochagavía, Navarra (España);9.527 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/selva-de-irati-navarra-19608901
+6;cerca de Baquedano, Navarra (España);ruta Dolmen Arteko Saroa - Baquedano, Navarra (España);7.532 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/dolmen-arteko-saroa-16242230
+7;cerca de Ochagavía, Navarra (España);ruta Selva de Irati , Cascada del Cubo - Ochagavía, Navarra (España);10.426 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/selva-de-irati-cascada-del-cubo-40554917
+8;cerca de Aurizberri, Navarra (España);ruta Adi - Aurizberri, Navarra (España);9.698 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/adi-26220243
+9;cerca de Ochagavía, Navarra (España);ruta Selva de Irati, Cascada del Cubo y Orgate por el GR-T9 y vuelta por el SL-62A, Navarra - Ochagavía, Navarra (España);9.83 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/selva-de-irati-cascada-del-cubo-y-orgate-por-el-gr-t9-y-vuelta-por-el-sl-62a-navarra-11197417
+10;cerca de Casas de Echeverri, Navarra (España);ruta Saioa , Xuriain desde la regata de Olazar - Casas de Echeverri, Navarra (España);12.533 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/saioa-xuriain-desde-la-regata-de-olazar-17949700
+11;cerca de Arruazu, Navarra (España);ruta Irumugarrieta - Arruazu, Navarra (España);16.721 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/irumugarrieta-10407729
+12;cerca de Irurtzun, Navarra (España);ruta Erga , Trinidad desde Irurzun - Irurtzun, Navarra (España);7.484 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/erga-trinidad-desde-irurzun-11727864
+13;cerca de Unanu, Navarra (España);ruta Ihurbain , Beriain - Unanu, Navarra (España);7.492 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/ihurbain-beriain-15348159
+14;cerca de Yesa, Navarra (España);ruta Rallar - Yesa, Navarra (España);6.695 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/rallar-9688687
+15;cerca de Bera, Navarra (España);ruta Zigorriaga a través del Lago Xoldokogaina - Bera, Navarra (España);9.184 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/zigorriaga-a-traves-del-lago-xoldokogaina-17312378
+16;cerca de Beartzun, Navarra (España);ruta Peña Alba desde Beartzun - Beartzun, Navarra (España);12.068 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/pena-alba-desde-beartzun-25054363
+17;cerca de Guerendiáin, Navarra (España);ruta Bosque de Orgi - Guerendiáin, Navarra (España);5.088 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/bosque-de-orgi-8257559
+18;cerca de Lesaka, Navarra (España);ruta Agiña - Lesaka, Navarra (España);17.493 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/agina-15970112
+19;cerca de Lantz, Navarra (España);ruta Azkenatz - Lantz, Navarra (España);7.358 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/azkenatz-14013837
+20;cerca de Bera, Navarra (España);ruta Manttale - Bera, Navarra (España);8.909 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/manttale-17312338
+21;cerca de Eguíllor, Navarra (España);ruta Castillo de Garaño , Gaztelu - Eguíllor, Navarra (España);5.238 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/castillo-de-garano-gaztelu-11853050
+22;cerca de Labaien, Navarra (España);ruta Soratxipi desde el alto de Gorostieta - Labaien, Navarra (España);8.25 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/soratxipi-desde-el-alto-de-gorostieta-42941888
+23;cerca de Mendiorotz, Navarra (España);ruta Txorrotxaga , Santa Cruz o Alto de Quiñones - Mendiorotz, Navarra (España);8.768 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/txorrotxaga-santa-cruz-o-alto-de-quinones-8481997
+24;cerca de Garaioa, Navarra (España);ruta Txanagra , mirador de Zamariain - Garaioa, Navarra (España);9.005 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/txanagra-mirador-de-zamariain-14417715
+25;cerca de Orreaga, Navarra (España);ruta Camino de Santiago Francés - ( Roncesvalles - Burgos ) - Pimera Parte y enlace a Camino Completo Roncesvalles - Santiago - Orreaga, Navarra (España);270.63 kilómetros;Moderado;https://es.wikiloc.com/rutas-senderismo/camino-de-santiago-frances-roncesvalles-burgos-pimera-parte-y-enlace-a-camino-completo-roncesvalles-11443523
+26;cerca de Elizondo, Navarra (España);ruta Ezkitz pasando por Larrondo y Urruspil - Elizondo, Navarra (España);9.488 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/ezkitz-pasando-por-larrondo-y-urruspil-11266399
+27;cerca de Iltzarbe, Navarra (España);ruta Peña Saldise - Iltzarbe, Navarra (España);6.534 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/pena-saldise-9885989
+28;cerca de Orbaizta, Navarra (España);ruta Urkulu - Orbaizta, Navarra (España);7.589 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/urkulu-7479901
+29;cerca de Sesma, Navarra (España);ruta Sobre Peña , Peña Ezquerra , Peña Rasa desde Sesma - Sesma, Navarra (España);12.142 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/sobre-pena-pena-ezquerra-pena-rasa-desde-sesma-8514535
+30;cerca de Casas de Echeverri, Navarra (España);ruta Zuriain desde la Parrilla de Urzel - Casas de Echeverri, Navarra (España);9.551 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/zuriain-desde-la-parrilla-de-urzel-17993304
+31;cerca de Huarte-Araquil, Navarra (España);ruta SAN MIGUEL ARALAR DESDE UHARTE POR DOLMENES - Huarte-Araquil, Navarra (España);13.962 kilómetros;Moderado;https://es.wikiloc.com/rutas-senderismo/san-miguel-aralar-desde-uharte-por-dolmenes-11489946
+32;cerca de Oricin, Navarra (España);ruta Roble milenario Echagüe - Oricin, Navarra (España);5.414 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/roble-milenario-echague-31053131
+33;cerca de Leitza, Navarra (España);ruta Arramia - Leitza, Navarra (España);10.498 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/arramia-16946668
+34;cerca de Igantzi, Navarra (España);ruta Unanua - Igantzi, Navarra (España);11.096 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/unanua-11553149
+35;cerca de Dorrao, Navarra (España);ruta 014 ✅ De Unanu a San Donato: Beriain | Centro de Euskalherria | Lezizagoa | Regreso por el bosque - Dorrao, Navarra (España);18.583 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/014-de-unanu-a-san-donato-beriain-centro-de-euskalherria-lezizagoa-regreso-por-el-bosque-5303335
+36;cerca de Arruazu, Navarra (España);ruta Artxueta desde Guardetxe - Arruazu, Navarra (España);7.725 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/artxueta-desde-guardetxe-11392287
+37;cerca de Bigüézal, Navarra (España);ruta Mirador de la Cruz de Burguía - Bigüézal, Navarra (España);6.988 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/mirador-de-la-cruz-de-burguia-13072652
+38;cerca de Aritzu, Navarra (España);ruta Iruxabal - Aritzu, Navarra (España);7.226 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/iruxabal-17287028
+39;cerca de Ollobarren, Navarra (España);ruta Santiago de Lokiz visitando antiguas cabañas de piedra - Ollobarren, Navarra (España);7.564 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/santiago-de-lokiz-visitando-antiguas-cabanas-de-piedra-15587573
+40;cerca de Guembe, Navarra (España);ruta Foz de Burón - Guembe, Navarra (España);5.388 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/foz-de-buron-11762598
+41;cerca de Orreaga, Navarra (España);ruta Menditxuri - Orreaga, Navarra (España);11.65 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/menditxuri-23724759
+42;cerca de Egues-Uharte, Navarra (España);ruta Pikulin - Egues-Uharte, Navarra (España);7.549 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/pikulin-12210422
+43;cerca de Lezáun, Navarra (España);ruta Sierra de Andia , Trinidad de Iturgoien - Lezáun, Navarra (España);11.675 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/sierra-de-andia-trinidad-de-iturgoien-10784023
+44;cerca de Tulebras, Navarra (España);ruta Laguna de Lor - Tulebras, Navarra (España);5.572 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/laguna-de-lor-12276907
+45;cerca de Ochagavía, Navarra (España);ruta Selva Irati(Casas)-Bosque Zabaleta(SL-NA 63A)-Embalse de Irabia(SL-NA 53C-54C-52C)-GR 11 - Ochagavía, Navarra (España);18.208 kilómetros;Moderado;https://es.wikiloc.com/rutas-senderismo/selva-iraticasas-bosque-zabaletasl-na-63a-embalse-de-irabiasl-na-53c-54c-52c-gr-11-29449238
+46;cerca de Zugarramurdi, Navarra (España);ruta Arxuria , Peña Plata - Zugarramurdi, Navarra (España);8.235 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/arxuria-pena-plata-8210633
+47;cerca de Ochagavía, Navarra (España);ruta *Selva de Irati(Casas)-Cascada del Cubo-GRT 9-Río Urbeltza-SLNA 62A* - Ochagavía, Navarra (España);10.598 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/selva-de-iraticasas-cascada-del-cubo-grt-9-rio-urbeltza-slna-62a-29449170
+48;cerca de Urdazubi, Navarra (España);ruta Argangoitia - Urdazubi, Navarra (España);6.008 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/argangoitia-11569042
+49;cerca de Echavacoiz, Navarra (España);ruta Gazolaz desde Barañain. - Echavacoiz, Navarra (España);10.953 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/gazolaz-desde-baranain-21484585
+50;cerca de Beriáin, Navarra (España);ruta Balsa de Beriain - Beriáin, Navarra (España);7.263 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/balsa-de-beriain-14928448
+51;cerca de Azantza, Navarra (España);ruta Mortxe , Peña Saldise - Azantza, Navarra (España);9.634 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/mortxe-pena-saldise-34005037
+52;cerca de Guirguillano, Navarra (España);ruta Iguste , Axixuri - Guirguillano, Navarra (España);11.161 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/iguste-axixuri-7201777
+53;cerca de Izalzu, Navarra (España);ruta Orhi ( Desde el collado de Ollokia ) - Izalzu, Navarra (España);12.268 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/orhi-desde-el-collado-de-ollokia-10574760
+54;cerca de Arruazu, Navarra (España);ruta Oiarbide y Arkueks - Arruazu, Navarra (España);5.596 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/oiarbide-y-arkueks-19441466
+55;cerca de Lantz, Navarra (España);ruta Garbitz - Lantz, Navarra (España);8.85 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/garbitz-20702849
+56;cerca de Arteta, Navarra (España);ruta Txargain - Arteta, Navarra (España);6.233 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/txargain-16851993
+57;cerca de Abínzano, Navarra (España);ruta Izaga , Ganbella , Santa Agata desde Sengáriz - Abínzano, Navarra (España);15.702 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/izaga-ganbella-santa-agata-desde-sengariz-32052497
+58;cerca de Orbaizta, Navarra (España);ruta Mendilaz - Orbaizta, Navarra (España);10.126 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/mendilaz-20631158
+59;cerca de Muruzábal de Andión, Navarra (España);ruta Andelos - Muruzábal de Andión, Navarra (España);9.148 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/andelos-8271911
+60;cerca de Orbaizta, Navarra (España);ruta Aitza - Orbaizta, Navarra (España);6.707 kilómetros;Moderado;https://es.wikiloc.com/rutas-senderismo/aitza-31019822
+61;cerca de Ollobarren, Navarra (España);ruta Cueva del Reloj , Piedra de Santiago Lokiz - Ollobarren, Navarra (España);5.109 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/cueva-del-reloj-piedra-de-santiago-lokiz-23041961
+62;cerca de Oronoz, Navarra (España);ruta Mokorro - Oronoz, Navarra (España);7.493 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/mokorro-17148621
+63;cerca de Lezáun, Navarra (España);ruta Zanabe - Lezáun, Navarra (España);10.01 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/zanabe-16485650
+64;cerca de Ollobarren, Navarra (España);ruta Circular Ojo San Prudencio - Ollobarren, Navarra (España);5.88 kilómetros;Moderado;https://es.wikiloc.com/rutas-senderismo/circular-ojo-san-prudencio-22905724
+65;cerca de Arruazu, Navarra (España);ruta Eulatz - Arruazu, Navarra (España);8.895 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/eulatz-13651020
+66;cerca de Rocaforte, Navarra (España);ruta Romeral - Rocaforte, Navarra (España);8.621 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/romeral-16485669
+67;cerca de Zugarramurdi, Navarra (España);ruta Zentinela - Zugarramurdi, Navarra (España);10.497 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/zentinela-17236096
+68;cerca de Otxobi, Navarra (España);ruta Illunbeta - Otxobi, Navarra (España);5.928 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/illunbeta-12540831
+69;cerca de Arizaleta, Navarra (España);ruta Mendizelaia - Arizaleta, Navarra (España);6.598 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/mendizelaia-17628814
+70;cerca de Unzué, Navarra (España);ruta Sierra de Alaitz: Orrontz (1120 m) y Carrascal (1155 m) desde Unzue - Unzué, Navarra (España);9.918 kilómetros;Moderado;https://es.wikiloc.com/rutas-senderismo/sierra-de-alaitz-orrontz-1120-m-y-carrascal-1155-m-desde-unzue-8736145
+71;cerca de Orkoien, Navarra (España);ruta Balsa de Loza, Balsa de Iza y alto de los Pinos. - Orkoien, Navarra (España);11.067 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/balsa-de-loza-balsa-de-iza-y-alto-de-los-pinos-27822068
+72;cerca de Lizaso, Navarra (España);ruta Vuelta a Ultzama - Lizaso, Navarra (España);9.856 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/vuelta-a-ultzama-6615818
+73;cerca de Castillonuevo, Navarra (España);ruta Las Leras - Castillonuevo, Navarra (España);11.518 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/las-leras-15907757
+74;cerca de Goñi, Navarra (España);ruta Arrasaundi - Goñi, Navarra (España);7.594 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/arrasaundi-12850600
+75;cerca de Viscarret-Guerendiáin, Navarra (España);ruta Asundegiko Gaina(1.152 metros) y Beodegi (1.149 metros) desde Sorogain. - Viscarret-Guerendiáin, Navarra (España);8.506 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/asundegiko-gaina1-152-metros-y-beodegi-1-149-metros-desde-sorogain-15004361
+76;cerca de Altsasu, Navarra (España);ruta Intsusburu - Altsasu, Navarra (España);8.572 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/intsusburu-13396282
+77;cerca de Ilárraz, Navarra (España);ruta Lakarri desde el alto de Errea - Ilárraz, Navarra (España);6.642 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/lakarri-desde-el-alto-de-errea-46496148
+78;cerca de Etxalar, Navarra (España);ruta Azkua - Etxalar, Navarra (España);7.137 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/azkua-11407885
+79;cerca de Zilbeti, Navarra (España);ruta Lizartxipi - Zilbeti, Navarra (España);8.648 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/lizartxipi-11366140
+80;cerca de Egozkue, Navarra (España);ruta Urdanatz - Egozkue, Navarra (España);6.35 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/urdanatz-30268289
+81;cerca de Arakil-Hiriberri, Navarra (España);ruta Arritxiki pasando por Urbaran - Arakil-Hiriberri, Navarra (España);9.802 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/arritxiki-pasando-por-urbaran-17993691
+82;cerca de Altzate, Navarra (España);ruta Ibanteli - Altzate, Navarra (España);5.421 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/ibanteli-11771631
+83;cerca de Aurizberri, Navarra (España);ruta Lanotegi - Aurizberri, Navarra (España);6.209 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/lanotegi-9703221
+84;cerca de Ardanaz, Navarra (España);ruta Monte Zarbeta/Santa Cruz(654 metros) desde la carretera del valle de Aranguren. - Ardanaz, Navarra (España);6.623 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/monte-zarbeta-santa-cruz654-metros-desde-la-carretera-del-valle-de-aranguren-12326828
+85;cerca de Viscarret-Guerendiáin, Navarra (España);ruta Cueva Lezestari - Viscarret-Guerendiáin, Navarra (España);8.875 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/cueva-lezestari-36900552
+86;cerca de Urdazubi, Navarra (España);ruta Mondarrain - Urdazubi, Navarra (España);10.131 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/mondarrain-37973761
+87;cerca de Orbaizta, Navarra (España);ruta Selva de Irati , por el pantano de Irabia - Orbaizta, Navarra (España);7.965 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/selva-de-irati-por-el-pantano-de-irabia-41055760
+88;cerca de Orreaga, Navarra (España);ruta Izoztegi - Orreaga, Navarra (España);12.39 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/izoztegi-20184158
+89;cerca de Bozate, Navarra (España);ruta La mole del Valle del Baztán: Hauza o Auza desde Erratzu - Bozate, Navarra (España);15.553 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/la-mole-del-valle-del-baztan-hauza-o-auza-desde-erratzu-20551036
+90;cerca de Olazagutía, Navarra (España);ruta Legunbe - Olazagutía, Navarra (España);11.65 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/legunbe-5852081
+91;cerca de Igoa, Navarra (España);ruta Aitzarbil - Igoa, Navarra (España);10.135 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/aitzarbil-34515274
+92;cerca de Iturmendi, Navarra (España);ruta Sierra de Urbasa - Menhir, Cuevas y Dolmens - Iturmendi, Navarra (España);7.524 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/sierra-de-urbasa-menhir-cuevas-y-dolmens-22921590
+93;cerca de Sesma, Navarra (España);ruta Humedal de Salobre - Sesma, Navarra (España);7.159 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/humedal-de-salobre-12736203
+94;cerca de Eguíllor, Navarra (España);ruta Sierra de Sarbil: Mortxe (1123 m) desde Eguillor - Eguíllor, Navarra (España);13.057 kilómetros;Moderado;https://es.wikiloc.com/rutas-senderismo/sierra-de-sarbil-mortxe-1123-m-desde-eguillor-6254943
+95;cerca de Azagra, Navarra (España);ruta Desembocadura Ega en Ebro y yeseras de Azagra - Azagra, Navarra (España);13.027 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/desembocadura-ega-en-ebro-y-yeseras-de-azagra-16326463
+96;cerca de Aramendía, Navarra (España);ruta Ibirin - Aramendía, Navarra (España);7.732 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/ibirin-11853736
+97;cerca de Lizarraga, Navarra (España);ruta Ibarrola - Lizarraga, Navarra (España);8.089 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/ibarrola-15970078
+98;cerca de Cía, Navarra (España);ruta Kapiztar - Cía, Navarra (España);5.777 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/kapiztar-15551591
+99;cerca de Beartzun, Navarra (España);ruta Burga - Beartzun, Navarra (España);10.058 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/burga-12736278
+100;cerca de Ihaurrieta, Navarra (España);ruta Beiegu - Ihaurrieta, Navarra (España);7.316 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/beiegu-12070000
+101;cerca de Erratzu, Navarra (España);ruta Iparla - Erratzu, Navarra (España);16.798 kilómetros;Moderado;https://es.wikiloc.com/rutas-senderismo/iparla-41307791
+102;cerca de Orreaga, Navarra (España);ruta Txangoa - Orreaga, Navarra (España);14.686 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/txangoa-9480418
+103;cerca de Lantz, Navarra (España);ruta Algorrieta - Lantz, Navarra (España);5.983 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/algorrieta-11870102
+104;cerca de Zolina, Navarra (España);ruta Alto de Sotoburu - Zolina, Navarra (España);5.33 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/alto-de-sotoburu-13396096
+105;cerca de Lantz, Navarra (España);ruta Lababota - Lantz, Navarra (España);6.581 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/lababota-15204998
+106;cerca de Casas de Echeverri, Navarra (España);ruta Isterbegi - Casas de Echeverri, Navarra (España);8.151 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/isterbegi-15787611
+107;cerca de Arakil-Etxarren, Navarra (España);ruta Alto la balsa - Arakil-Etxarren, Navarra (España);6.708 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/alto-la-balsa-15511789
+108;cerca de Arrarás, Navarra (España);ruta Begaña - Arrarás, Navarra (España);7.439 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/begana-21088112
+109;cerca de Donamaría, Navarra (España);ruta Otolo - Donamaría, Navarra (España);10.008 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/otolo-12114173
+110;cerca de Orreaga, Navarra (España);ruta Ortzanzurieta (1567 m) desde Roncesvalles - Orreaga, Navarra (España);12.077 kilómetros;Moderado;https://es.wikiloc.com/rutas-senderismo/ortzanzurieta-1567-m-desde-roncesvalles-11330794
+111;cerca de Sartaguda, Navarra (España);ruta Santa Cruz desde Sartaguda - Sartaguda, Navarra (España);15.233 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/santa-cruz-desde-sartaguda-15245258
+112;cerca de Orbaizta, Navarra (España);ruta Mozolo en el corazón de la Selva de Irati - Orbaizta, Navarra (España);6.14 kilómetros;Moderado;https://es.wikiloc.com/rutas-senderismo/mozolo-en-el-corazon-de-la-selva-de-irati-11200723
+113;cerca de Echarri-Aranaz, Navarra (España);ruta Txaradigorri por la Ruta de los Dolmenes y Descenso por la Senda de los Robles Milenarios desde Etxarri Aranatz - Echarri-Aranaz, Navarra (España);15.438 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/txaradigorri-por-la-ruta-de-los-dolmenes-y-descenso-por-la-senda-de-los-robles-milenarios-desde-etx-14155775
+114;cerca de Arraioz, Navarra (España);ruta Larratzu - Arraioz, Navarra (España);9.336 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/larratzu-30468192
+115;cerca de Laquidáin, Navarra (España);ruta Paseo por la Sierra de Aranguren - Laquidáin, Navarra (España);5.671 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/paseo-por-la-sierra-de-aranguren-25289908
+116;cerca de Oronoz, Navarra (España);ruta Meate - Oronoz, Navarra (España);7.198 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/meate-24665933
+117;cerca de Casas de Echeverri, Navarra (España);ruta Astabizkar - Casas de Echeverri, Navarra (España);8.225 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/astabizkar-17251459
+118;cerca de Iragi, Navarra (España);ruta Oiezki , Murelu , Mirador de Usetxi - Iragi, Navarra (España);8.974 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/oiezki-murelu-mirador-de-usetxi-10836352
+119;cerca de Cáseda, Navarra (España);ruta San Zoilo - Cáseda, Navarra (España);9.374 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/san-zoilo-6818774
+120;cerca de Zudaire, Navarra (España);ruta Larregoiko pasando por árbol Centinela desde Zudaire - Zudaire, Navarra (España);7.935 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/larregoiko-pasando-por-arbol-centinela-desde-zudaire-51450959
+121;cerca de Artaiz, Navarra (España);ruta Txarribizkar - Artaiz, Navarra (España);6.215 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/txarribizkar-11522119
+122;cerca de Orbaizta, Navarra (España);ruta Txangoa desde Azpegi - Orbaizta, Navarra (España);9.138 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/txangoa-desde-azpegi-52234596
+123;cerca de Burlata, Navarra (España);ruta Burutxeko (617 metros) desde el barrio de la Txantrea. - Burlata, Navarra (España);9.952 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/burutxeko-617-metros-desde-el-barrio-de-la-txantrea-17763645
+124;cerca de Ochagavía, Navarra (España);ruta Auztarri - Ochagavía, Navarra (España);9.812 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/auztarri-14001837
+125;cerca de Beruete, Navarra (España);ruta Seanbe ( Seganbe ) - Beruete, Navarra (España);5.237 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/seanbe-seganbe-12831094
+126;cerca de Aguilar de Codés, Navarra (España);ruta Hipogeo de Longar - Aguilar de Codés, Navarra (España);10.508 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/hipogeo-de-longar-20800393
+127;cerca de Ayegui, Navarra (España);ruta Ruta Circular a Montejurra desde el Monasterio de Iratxe (Sierra de Montejurra) - Ayegui, Navarra (España);9.689 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/ruta-circular-a-montejurra-desde-el-monasterio-de-iratxe-sierra-de-montejurra-6027120
+128;cerca de Aurizberri, Navarra (España);ruta Apezainberro - Aurizberri, Navarra (España);8.823 kilómetros;Fácil;https://es.wikiloc.com/rutas-senderismo/apezainberro-37420579
